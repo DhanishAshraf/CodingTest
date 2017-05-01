@@ -7,3 +7,6 @@ with a single command line argument stating the name of the .csv file with the e
 
 e.g. javac RouterPatchChecker.java
      java RouterPatchChecker sample.csv
+    
+    
+RouterPatchCheckerTest is the JUnit tests that were completed to esnure the program works properly.
