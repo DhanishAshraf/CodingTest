@@ -9,4 +9,4 @@ e.g. javac RouterPatchChecker.java
      java RouterPatchChecker sample.csv
     
     
-RouterPatchCheckerTest is the JUnit tests that were completed to esnure the program works properly.
+RouterPatchCheckerTest is the JUnit tests that were completed to ensure the program works properly.
